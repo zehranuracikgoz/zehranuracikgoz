@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**zehranuracikgoz/zehranuracikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Zehra, a Computer Engineering student based in Istanbul.
 
-Here are some ideas to get you started:
+I enjoy building data-driven systems and turning real-world problems into software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I find something interesting, I like to dive into it and actually build something around it.
+
+My main focus is on Python, SQL, and data analysis, and lately I’ve been exploring machine learning, NLP, and backend development.
+
+I also have experience with mobile (Android) and basic web development.
+
+I’ve got a few projects here, and I’m currently focused on my graduation project and TÜBİTAK 1001 project — both keeping me busy and excited.
+
+Feel free to reach out!
+
+### Fun Facts:
+- I enjoy socializing, but I also value my quiet time to recharge
+- Currently learning German
+- I probably overthink small details
